@@ -11,7 +11,7 @@
   TELEMETRY_TRACE_ENABLED = false
 
 [common]
-  ROUTER_KEY = "2fcc857abd6ce919c3dc8e64f790bafa2bcbb1bc12accbf7ab98c84e8c5978cf"
+  ROUTER_KEY = "a1face943f5e9bfeeb86832f7cdbc0ec1cdb74fb652f3b9df48ea932a5bcd57d"
 
 [evm]
   CHAIN_ID = "world-420"
@@ -24,7 +24,7 @@
   FAUCET_ENABLED = false
 
 [forge]
-  PROJECT_NAME = "card1"
+  PROJECT_NAME = "card2"
 
 [nakama]
   ENABLE_ALLOWLIST = "false"
